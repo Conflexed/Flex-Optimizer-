@@ -1,5 +1,5 @@
 # Flex-Optimizer-
-An all in one regedit script to optimize Windows for Gaming 💻⚡️
+An all in one script to optimize Windows for Gaming 💻⚡️
 
 Targets - 🎯
 •Reduced Latency
@@ -13,5 +13,11 @@ Targets - 🎯
 •Gaming adjustments for your operating system and adapters
 
 This project is completely free, feel free to share. 
+
+Q: How does it work? 🤔
+
+A: Flex works by automatically applying the best settings for your internet connection & operating system with values and changes that are proven to work
+
+
 
 DISCLAIMER: ALWAYS CREATE A REGISTRY BACKUP / WINDOWS RESTORE POINT BEFORE RUNNING ANY SCRIPTS ‼️
