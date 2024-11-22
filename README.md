@@ -18,6 +18,8 @@ Q: How does it work? 🤔
 
 A: Flex works by automatically applying the best settings for your internet connection & operating system with values and changes that are proven to work
 
+Q: What operating systems do you support?
 
+A: Currently only Windows 10 & 11
 
 DISCLAIMER: ALWAYS CREATE A REGISTRY BACKUP / WINDOWS RESTORE POINT BEFORE RUNNING ANY SCRIPTS ‼️
